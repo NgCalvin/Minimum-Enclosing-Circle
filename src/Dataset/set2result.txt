@@ -1,0 +1,7 @@
+The following are points the MEC passes through:
+[[714.0, 97832.0], [99482.0, 1826.0]]
+The following is the x, y coordinate and r to power 2 of the MEC:
+[50098.0, 49829.0]
+68869.93150134535
+The following is the time used in nanosecond for this dataset:
+76992758
